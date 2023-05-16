@@ -77,6 +77,3 @@ with st.sidebar:
     st.markdown(
         "[rimabuilds GitHub](https://rimabuilds.github.io/)", unsafe_allow_html=True,
     )
-    st.markdown(
-        "[rimabuilds Website](https://rimabuilds.com/)", unsafe_allow_html=True,
-    )

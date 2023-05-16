@@ -3,11 +3,11 @@
 
 Generate creative tweets and threads with ChatGPT, powered by OpenAI's GPT-3 model.
 
-![Titter GPT Screenshot](screenshot-input.png)
+![Titter GPT Screenshot](screenshot-nput.png)
 
 This project is adapted from [emailGPT](https://github.com/lucasmccabe/emailGPT) by [Lucas McCabe](https://github.com/lucasmccabe) and utilizes the reverse ChatGPT method from [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) using the [revChatGPT](https://pypi.org/project/revChatGPT/) package and [streamlit app](https://streamlit.io/). The original emailGPT project is licensed under the [MIT License](https://github.com/lucasmccabe/emailGPT/blob/main/LICENSE).
 
-![Titter GPT Screenshot](screenshot-output.png)
+![Titter GPT Screenshot](screenshot-utput.png)
 
 ## Features
 

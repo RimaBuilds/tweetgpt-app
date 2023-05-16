@@ -68,12 +68,5 @@ if generate_tweet:
 with st.sidebar:
     st.header("Links")
     st.markdown(
-        "[About ChatGPT](https://openai.com/blog/chatgpt/)", unsafe_allow_html=True
-    )
-    st.markdown(
-        "[This app on GitHub](https://github.com/rimabuilds/twitter-GPT)",
-        unsafe_allow_html=True,
-    )
-    st.markdown(
-        "[rimabuilds GitHub](https://rimabuilds.github.io/)", unsafe_allow_html=True,
+        "[rimabuilds GitHub](https://github.com/RimaBuilds)", unsafe_allow_html=True,
     )
